@@ -2,7 +2,7 @@
 
 ## Overview / Description
 
-LoadWarp is a Cloudflare Worker-based application that provides dynamic DNS updates and server health monitoring. It's designed to help manage service discovery and simple load balancing by maintaining Cloudflare TXT records that list healthy server instances for defined groups. When servers report their health status, LoadWarp automatically updates the corresponding DNS records, allowing clients to discover healthy endpoints.
+LoadWarp is a Cloudflare Worker based application that provides dynamic DNS updates and server health monitoring. It's designed to help manage service discovery and simple load balancing by maintaining Cloudflare TXT records that list healthy server instances for defined groups. When servers report their health status, LoadWarp automatically updates the corresponding DNS records, allowing clients to discover healthy endpoints.
 
 ## Features
 
@@ -300,9 +300,8 @@ The application uses the following tables in Cloudflare D1 (managed by Drizzle O
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues.
-(Further details can be added here if specific contribution guidelines are established).
+Closed Source Now
 
 ## License
 
-This project is licensed under the MIT License. (Or specify another if applicable. If no license file exists, this is a placeholder).
+NO license yet
